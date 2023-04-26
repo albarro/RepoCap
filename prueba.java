@@ -1,9 +1,11 @@
 public class TestClass {
-private final String message;
-public TestClass() {
-this.message = “Hola mundo”;
-}
-public String getMessage() {
-return message;
-}
+	private final String message;
+
+	public TestClass() {
+	this.message = “Chau gente”;
+	}
+
+	public String getMessage() {
+		return message;
+	}
 }
